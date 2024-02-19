@@ -1,5 +1,0 @@
-carlos,60
-helder,60
-laura,35
-pedro,10
-rui,70

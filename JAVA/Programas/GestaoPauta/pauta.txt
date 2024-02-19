@@ -1,4 +1,0 @@
-bia,90
-diana,35
-carla,30
-ana,25

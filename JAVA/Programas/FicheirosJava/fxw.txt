@@ -1,4 +1,0 @@
-linha 1
-linha2
-linha3
-fim
