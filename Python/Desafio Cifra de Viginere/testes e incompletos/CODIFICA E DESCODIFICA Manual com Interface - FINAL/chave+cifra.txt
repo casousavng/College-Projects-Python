@@ -1,0 +1,33 @@
+chave: programa/Users/andresousa/Desktop/CIFRA/CODIFICA E DESCODIFICA Manual com Interface - cópia/chave+cifra.txt
+
+cifra: yfhaauhuekjwwsvphhdsaurddarvyblbufvlfinsysxuxpenqlxjs
+
+Frase: institutosuperiorpolitecnicogayaengenhariainformatica
+
+
+
+Chave: openday
+
+Frase: tecnologias
+
+Cifra: iuhbsmnvyfg 
+
+ommand=lambda: gtc(age)
+
+ommand=lambda: gtc(age)
+
+
+
+
+Código da cifra: 
+
+CHAVE	O	P	E	N	D	A	Y	O	P	E	N
+VALOR 	15	16	5	14	4	1	25	15	16	5	14
+											
+TEXTO 	T	E	C	N	O	L	O	G	I	A	S
+VALOR 	20	5	3	14	15	12	15	7	9	1	19
+											
+REMOVE  26 	35	21	8	28	19	13	40	22	25	6	33
+											
+VALOR 	9	21	8	2	19	13	14	22	25	6	7
+CIFRA	I	U	H	B	S	M	N	V	Y	F	G
