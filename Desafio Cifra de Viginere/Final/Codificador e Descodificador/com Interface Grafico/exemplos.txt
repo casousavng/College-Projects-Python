@@ -1,0 +1,21 @@
+
+
+
+EXEMPLOS PARA USAR NO PROGRAMA DESENVOLVIDO
+
+Chave: programa
+
+Cifra: yfhaauhuekjwwsvphhdsaurddarvyblbufvlfinsysxuxpenqlxjs
+
+TEXTO DE SAIDA: institutosuperiorpolitecnicogayaengenhariainformatica
+
+-----
+
+Chave: openday
+
+Cifra: iuhbsmnvyfg
+
+TEXTO DE SAIDA SERÁ: tecnologias
+
+
+
